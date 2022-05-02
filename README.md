@@ -1,5 +1,7 @@
-# russian-military-vehicles-annotated
+# Russian military vehicles-annotated
 
 - 993 images, 10 classes
-- folder structure: train, valid, test.
+- 1,254 Annotations, 1.3 per image (average)
+- Zip 1: folder structure: train, valid, test.
+- Zip 2: no split
 - Annotated for YOLOv5
