@@ -7,4 +7,6 @@
 - Zip 2: no split
 - Zip 3: added null classes
 
-**Note: View the ipynb here:**  https://nbviewer.org/github/MLDavies/russian-military-vehicles-annotated/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb
+**Note: View the ipynb here:**  
+
+https://nbviewer.org/github/MLDavies/russian-military-vehicles-annotated/blob/main/YOLOv5_russian_military_vehicles_writeup.ipynb
